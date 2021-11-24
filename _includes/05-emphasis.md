@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Emphasis
+*This line is italics*
+
+**This line is bold**
+
+_This line has **bold** and **italics** both combined__
