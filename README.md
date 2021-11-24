@@ -201,7 +201,7 @@ Example Code:
 
 <br>
 
->NOTE: Not all appplications support task lists
+>:warning: Not all appplications support task lists
 
 <br>
 
